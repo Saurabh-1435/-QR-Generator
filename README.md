@@ -45,6 +45,5 @@ Feel free to fork this repository and contribute by opening issues or submitting
 
 ## Author
 **Saurabh Lakhan**  
-GitHub: [manishdahake10](https://github.com/manishdahake10)
-
+https://github.com/Saurabh-1435/-QR-Generator.git
 
